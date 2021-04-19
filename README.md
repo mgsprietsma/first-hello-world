@@ -1,2 +1,2 @@
-# first-hello-world
-Just a short example of Github usage. Includes a bit of example code I wrote using numpy, scipy, etc. 
+# Example-Code
+Just a short example of Github usage with some of my Python code. Includes usage of numpy
