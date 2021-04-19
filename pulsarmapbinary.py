@@ -8,6 +8,10 @@ from astropy.io import ascii
 from astropy.coordinates import SkyCoord
 import matplotlib as mpl
 
+# Written by Maria Galloway-Sprietsma. This code takes in a .csv file with pulsar coordinates
+# and periods, reads them into an array, and then plots them on a chart using galactic coordinates with a color bar
+# demonstrating the length of the pulsar period. 
+
 df = pd.read_csv('galacticwperiod.csv')
 
 #print(plt.style.available)
